@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="daf157b6-e85b-45a1-9dce-65adb0dd49c6" name="Changes" comment="notes on identifires and primatives">
+    <list default="true" id="daf157b6-e85b-45a1-9dce-65adb0dd49c6" name="Changes" comment="added real numbers and examples of behaviors">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -47,7 +47,9 @@
       <option name="presentableId" value="Default" />
       <updated>1693921099286</updated>
       <workItem from="1693921100346" duration="2165000" />
-      <workItem from="1694008398447" duration="2604000" />
+      <workItem from="1694008398447" duration="3597000" />
+      <workItem from="1694091969905" duration="1812000" />
+      <workItem from="1694179522776" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="notes on identifires and primatives">
       <option name="closed" value="true" />
@@ -57,7 +59,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693922607076</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added real numbers and examples of behaviors">
+      <option name="closed" value="true" />
+      <created>1694011562831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694011562831</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="notes on identifires and primatives" />
-    <option name="LAST_COMMIT_MESSAGE" value="notes on identifires and primatives" />
+    <MESSAGE value="added real numbers and examples of behaviors" />
+    <option name="LAST_COMMIT_MESSAGE" value="added real numbers and examples of behaviors" />
   </component>
 </project>

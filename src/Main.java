@@ -40,5 +40,42 @@ public class Main {
         System.out.println(distance);
         System.out.println(closer);
 
+        // --booleans:  boolean
+        //    only possible values:  true, false
+        boolean lightSwitch = true;  //lights are on
+        //  will increase usage in the not-too-distant future
+
+        // --chars:   char
+        //    bits:    16
+        //     only big enough to hold a SINGLE character
+        //   under the hood:  this is an UNSIGNED 16-bit integer
+        //           integer values from 0 - 65535
+        //         first 255 is what was ASCII
+        //         internationalization required many more characters
+        //            extended to what is now UNICODE
+        char single = 'g';
+        System.out.println(single);
+        single = 75;
+        System.out.println(single);
+        // NEED TO KNOW INFORMATION:
+        //     'A' => 65
+        //     'a' => 97
+        //     '0' => 48
+        //    rest can be figured out by simply adding 1 for the
+        //       next character, ex. 'B' => 66, 'c' => 98
+
+        // the above are all direct access to the data
+        //   through the variable names
+        // reference -- a reference variable stores the memory address
+        //        of an object
+        //   object -- preview of coming attractions
+        //          -- holds more than a simple value
+        // first example of an object:  String
+        //     String holds a group of characters (usually more than one)
+        String name = "Suzy";
+        String buddy = "whoot - \\\\\\\\\\\\\\\\";
+        System.out.println(buddy);
+
+
     }
 }
